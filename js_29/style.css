@@ -1,0 +1,10 @@
+.text {
+    width: 200px;
+    text-align: justify;
+}
+
+#top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+}

@@ -1,0 +1,15 @@
+#test1 {
+    width: 600px;
+    height: 100px;
+    background: pink;
+    position: relative;
+}
+
+#test2 {
+    width: 10px;
+    height: 100px;
+    background: black;
+    position: absolute;
+    left: 290px;
+    top: 0;
+}
